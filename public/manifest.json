@@ -1,0 +1,17 @@
+{
+    "name": "Cottage App",
+    "short_name": "Cottage App",
+    "start_url": "/index.php",
+    "background_color": "#6777ef",
+    "description": "Cottage App",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
